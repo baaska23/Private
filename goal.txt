@@ -1,0 +1,54 @@
+So here is my plan for next 5 years.
+
+Things I need to master:
+Academically{
+    Soft skills{
+        Representing
+        Debating
+        Making connections
+    }
+
+    Hard skills{
+        Coding{
+            Frontend{
+                C
+                C++
+                #C
+                Javascript
+                Java
+                HTML
+                CSS
+                Python
+                SQL
+                React
+                Flutter
+                Figma
+                Excel
+                Power BI
+                Tableau
+            }
+        }
+    }
+}
+
+Work plan:
+
+Learn all the programming languages
+Have 8 projects done
+Develop social networking
+
+First 24 months:
+Get a degree
+Have 8 projects done
+Have 2 internships done
+Have 20+ courses done
+
+Next 24 months:
+Get a job at small company
+Learn how to work and gain an experience
+
+Next 24 months:
+Get a job at giant company
+
+Next 24 months:
+Get a remote job at Tier-2 level(at least) tech company
